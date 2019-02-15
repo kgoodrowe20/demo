@@ -1,4 +1,4 @@
-"game" by kgoodrowe20
+"garage escape" by kgoodrowe20
 
 When play begins: say "You wake up to the slow pitter-patter of oil colliding against the surface of cold concrete. Instantly you are hit with a pressure in your chest. There is a sinking feeling as an ominous vibe surrounds you."
 
