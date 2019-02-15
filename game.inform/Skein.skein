@@ -1,0 +1,848 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1014">
+    <generator>Inform Mac Client (Inform version 1.65/6.33/6M62)</generator>
+    <item nodeId="node-1014">
+        <command xml:space="preserve">game</command>
+        <result xml:space="preserve">
+
+
+You wake up to the slow pitter-patter of oil colliding against the surface of cold concrete. Instantly you are hit with a pressure in your chest. There is a sinking feeling as an ominous vibe surrounds you.
+
+game
+An Interactive Fiction by kgoodrowe20
+Release 1 / Serial number 190215 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+
+Garage
+You are within a dimly lit room, cluttered with various shelves of junk. There is a run-down red muscle car sitting in the corner. The paint has started to chip and rust is beginning to pop up on its body.
+
+There is a doorway to the east, with a faint glow being emitted from it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1018"></child>
+            <child nodeId="node-1061"></child>
+            <child nodeId="node-1100"></child>
+            <child nodeId="node-1017"></child>
+            <child nodeId="node-1128"></child>
+            <child nodeId="node-1046"></child>
+            <child nodeId="node-1038"></child>
+            <child nodeId="node-1029"></child>
+            <child nodeId="node-1032"></child>
+        </children>
+    </item>
+    <item nodeId="node-1032">
+        <command xml:space="preserve">x car</command>
+        <result xml:space="preserve">The red paint on this car appears to have almost completely changed color. The chipped paint is sharp and firm, and it looks like you could possibly cut things with it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1037"></child>
+            <child nodeId="node-1033"></child>
+        </children>
+    </item>
+    <item nodeId="node-1033">
+        <command xml:space="preserve">x windmill</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1037">
+        <command xml:space="preserve">take chipped paint</command>
+        <result xml:space="preserve">That's hardly portable.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1029">
+        <command xml:space="preserve">take key</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1030"></child>
+        </children>
+    </item>
+    <item nodeId="node-1030">
+        <command xml:space="preserve">x key</command>
+        <result xml:space="preserve">A car key with what looks like a scratched off logo.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1031"></child>
+        </children>
+    </item>
+    <item nodeId="node-1031">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Kitchen
+This room has a familiar, but unpleasant smell. The linoleum floors have a slight shimmer to them as the dim light coming from the ceiling lamp hits it. There is an oven which sits next to where a fridge should be. Two cabinets decorate the walls, but one appears to have the handles ripped off of the doors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1038">
+        <command xml:space="preserve">take chipped paint</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1039"></child>
+            <child nodeId="node-1123"></child>
+        </children>
+    </item>
+    <item nodeId="node-1123">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1124"></child>
+        </children>
+    </item>
+    <item nodeId="node-1124">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Kitchen
+This room has a familiar, but unpleasant smell. The linoleum floors have a slight shimmer to them as the dim light coming from the ceiling lamp hits it. There is an empty oven which sits next to where a fridge should be. Two cabinets decorate the walls, but one appears to have the handles ripped off of the doors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1125"></child>
+        </children>
+    </item>
+    <item nodeId="node-1125">
+        <command xml:space="preserve">open cabinet</command>
+        <result xml:space="preserve">You open the cabinet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1126"></child>
+        </children>
+    </item>
+    <item nodeId="node-1126">
+        <command xml:space="preserve">cut web</command>
+        <result xml:space="preserve">Cutting it up would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1127"></child>
+        </children>
+    </item>
+    <item nodeId="node-1127">
+        <command xml:space="preserve">open web</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1039">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Kitchen
+This room has a familiar, but unpleasant smell. The linoleum floors have a slight shimmer to them as the dim light coming from the ceiling lamp hits it. There is an empty oven which sits next to where a fridge should be. Two cabinets decorate the walls, but one appears to have the handles ripped off of the doors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1040"></child>
+        </children>
+    </item>
+    <item nodeId="node-1040">
+        <command xml:space="preserve">open cabinet</command>
+        <result xml:space="preserve">You open the cabinet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1041"></child>
+        </children>
+    </item>
+    <item nodeId="node-1041">
+        <command xml:space="preserve">x cabinet</command>
+        <result xml:space="preserve">Inside the cabinet is bundles upon bundles of spiderwebs. Through the spools of pure white, you see a glimmer of something.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1042"></child>
+            <child nodeId="node-1054"></child>
+        </children>
+    </item>
+    <item nodeId="node-1054">
+        <command xml:space="preserve">unlock web with chipped paint</command>
+        <result xml:space="preserve">You unlock web.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1055"></child>
+        </children>
+    </item>
+    <item nodeId="node-1055">
+        <command xml:space="preserve">open web</command>
+        <result xml:space="preserve">You open web, revealing a key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1056"></child>
+        </children>
+    </item>
+    <item nodeId="node-1056">
+        <command xml:space="preserve">take key</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1057"></child>
+        </children>
+    </item>
+    <item nodeId="node-1057">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Garage
+You are within a dimly lit room, cluttered with various shelves of junk. There is a run-down red muscle car sitting in the corner. The paint has started to chip and rust is beginning to pop up on its body.
+
+There is a doorway to the east, with a faint glow being emitted from it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1058"></child>
+        </children>
+    </item>
+    <item nodeId="node-1058">
+        <command xml:space="preserve">unlock car</command>
+        <result xml:space="preserve">What do you want to unlock the car with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1059"></child>
+        </children>
+    </item>
+    <item nodeId="node-1059">
+        <command xml:space="preserve">unlock car with key</command>
+        <result xml:space="preserve">You unlock the car.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1060"></child>
+        </children>
+    </item>
+    <item nodeId="node-1060">
+        <command xml:space="preserve">enter car</command>
+        <result xml:space="preserve">That's not something you can enter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1042">
+        <command xml:space="preserve">open web</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1043"></child>
+        </children>
+    </item>
+    <item nodeId="node-1043">
+        <command xml:space="preserve">unlock web</command>
+        <result xml:space="preserve">(with the chipped paint)
+You unlock web.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1044"></child>
+        </children>
+    </item>
+    <item nodeId="node-1044">
+        <command xml:space="preserve">take key</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1045"></child>
+        </children>
+    </item>
+    <item nodeId="node-1045">
+        <command xml:space="preserve">x web</command>
+        <result xml:space="preserve">The web must've been left alone for a long, long time in order to have grown to the massive size that it is, taking up the entire cabinet. It is a wonder how you didn't see it spilling out of the cabinet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1046">
+        <command xml:space="preserve">take chipped</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1047"></child>
+        </children>
+    </item>
+    <item nodeId="node-1047">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1048"></child>
+        </children>
+    </item>
+    <item nodeId="node-1048">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Kitchen
+This room has a familiar, but unpleasant smell. The linoleum floors have a slight shimmer to them as the dim light coming from the ceiling lamp hits it. There is an empty oven which sits next to where a fridge should be. Two cabinets decorate the walls, but one appears to have the handles ripped off of the doors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1049"></child>
+        </children>
+    </item>
+    <item nodeId="node-1049">
+        <command xml:space="preserve">open cabinet</command>
+        <result xml:space="preserve">You open the cabinet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1128">
+        <command xml:space="preserve">ok</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1129"></child>
+        </children>
+    </item>
+    <item nodeId="node-1129">
+        <command xml:space="preserve">dance</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1130"></child>
+        </children>
+    </item>
+    <item nodeId="node-1130">
+        <command xml:space="preserve">run</command>
+        <result xml:space="preserve">You'll have to say which compass direction to go in.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1131"></child>
+        </children>
+    </item>
+    <item nodeId="node-1131">
+        <command xml:space="preserve">walk</command>
+        <result xml:space="preserve">You'll have to say which compass direction to go in.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1132"></child>
+        </children>
+    </item>
+    <item nodeId="node-1132">
+        <command xml:space="preserve">run west</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1133"></child>
+        </children>
+    </item>
+    <item nodeId="node-1133">
+        <command xml:space="preserve">run forwards</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1134"></child>
+        </children>
+    </item>
+    <item nodeId="node-1134">
+        <command xml:space="preserve">run backwards</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1135"></child>
+        </children>
+    </item>
+    <item nodeId="node-1135">
+        <command xml:space="preserve">run east</command>
+        <result xml:space="preserve">
+Kitchen
+This room has a familiar, but unpleasant smell. The linoleum floors have a slight shimmer to them as the dim light coming from the ceiling lamp hits it. There is an empty oven which sits next to where a fridge should be. Two cabinets decorate the walls, but one appears to have the handles ripped off of the doors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1136"></child>
+        </children>
+    </item>
+    <item nodeId="node-1136">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You jump on the spot.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1137"></child>
+        </children>
+    </item>
+    <item nodeId="node-1137">
+        <command xml:space="preserve">die</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1138"></child>
+        </children>
+    </item>
+    <item nodeId="node-1138">
+        <command xml:space="preserve">eat</command>
+        <result xml:space="preserve">What do you want to eat?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1139"></child>
+        </children>
+    </item>
+    <item nodeId="node-1139">
+        <command xml:space="preserve">food</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1017">
+        <command xml:space="preserve">l</command>
+        <result xml:space="preserve">Garage
+You wake up to the slow pitter-patter of oil colliding against the surface of cold concrete. You find yourself within a dimly lit room, cluttered with various shelves of junk. There is a run-down red muscle car sitting in the corner. The paint has started to chip and rust is beginning to pop up on its body.
+
+There is a doorway to the east, with a faint glow being emitted from it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1100">
+        <command xml:space="preserve">inspect car</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1101"></child>
+        </children>
+    </item>
+    <item nodeId="node-1101">
+        <command xml:space="preserve">look at car</command>
+        <result xml:space="preserve">You see nothing special about the car.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1102"></child>
+        </children>
+    </item>
+    <item nodeId="node-1102">
+        <command xml:space="preserve">look at shelves</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1103"></child>
+        </children>
+    </item>
+    <item nodeId="node-1103">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Kitchen
+This room has a familiar, but unpleasant smell. The linoleum floors have a slight shimmer to them as the dim light coming from the ceiling lamp hits it. There is an empty oven which sits next to where a fridge should be. Two cabinets decorate the walls, but one appears to have the handles ripped off of the doors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1104"></child>
+        </children>
+    </item>
+    <item nodeId="node-1104">
+        <command xml:space="preserve">open oven</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1105"></child>
+        </children>
+    </item>
+    <item nodeId="node-1105">
+        <command xml:space="preserve">x oven</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1106"></child>
+        </children>
+    </item>
+    <item nodeId="node-1106">
+        <command xml:space="preserve">x cabinets</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1107"></child>
+        </children>
+    </item>
+    <item nodeId="node-1107">
+        <command xml:space="preserve">x ceiling lamp</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1108"></child>
+        </children>
+    </item>
+    <item nodeId="node-1108">
+        <command xml:space="preserve">x fridge</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1109"></child>
+        </children>
+    </item>
+    <item nodeId="node-1109">
+        <command xml:space="preserve">x cabinet</command>
+        <result xml:space="preserve">Inside the cabinet is bundles upon bundles of spiderwebs. Through the spools of pure white, you see a glimmer of something.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1110"></child>
+        </children>
+    </item>
+    <item nodeId="node-1110">
+        <command xml:space="preserve">x something</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1111"></child>
+        </children>
+    </item>
+    <item nodeId="node-1111">
+        <command xml:space="preserve">take spiderwebs</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1112"></child>
+        </children>
+    </item>
+    <item nodeId="node-1112">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Garage
+You are within a dimly lit room, cluttered with various shelves of junk. There is a run-down red muscle car sitting in the corner. The paint has started to chip and rust is beginning to pop up on its body.
+
+There is a doorway to the east, with a faint glow being emitted from it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1113"></child>
+        </children>
+    </item>
+    <item nodeId="node-1113">
+        <command xml:space="preserve">x shelf</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1114"></child>
+        </children>
+    </item>
+    <item nodeId="node-1114">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Kitchen
+This room has a familiar, but unpleasant smell. The linoleum floors have a slight shimmer to them as the dim light coming from the ceiling lamp hits it. There is an empty oven which sits next to where a fridge should be. Two cabinets decorate the walls, but one appears to have the handles ripped off of the doors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1115"></child>
+        </children>
+    </item>
+    <item nodeId="node-1115">
+        <command xml:space="preserve">x floor</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1116"></child>
+        </children>
+    </item>
+    <item nodeId="node-1116">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Garage
+You are within a dimly lit room, cluttered with various shelves of junk. There is a run-down red muscle car sitting in the corner. The paint has started to chip and rust is beginning to pop up on its body.
+
+There is a doorway to the east, with a faint glow being emitted from it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1117"></child>
+        </children>
+    </item>
+    <item nodeId="node-1117">
+        <command xml:space="preserve">x shelves</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1118"></child>
+        </children>
+    </item>
+    <item nodeId="node-1118">
+        <command xml:space="preserve">x muscle car</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1119"></child>
+        </children>
+    </item>
+    <item nodeId="node-1119">
+        <command xml:space="preserve">x run-down red muscle car</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1120"></child>
+        </children>
+    </item>
+    <item nodeId="node-1120">
+        <command xml:space="preserve">x car</command>
+        <result xml:space="preserve">You see nothing special about the car.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1121"></child>
+        </children>
+    </item>
+    <item nodeId="node-1121">
+        <command xml:space="preserve">look at car</command>
+        <result xml:space="preserve">You see nothing special about the car.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1061">
+        <command xml:space="preserve">enter car</command>
+        <result xml:space="preserve">You can't get into the closed car.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1062"></child>
+        </children>
+    </item>
+    <item nodeId="node-1062">
+        <command xml:space="preserve">take chipped paint</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1063"></child>
+        </children>
+    </item>
+    <item nodeId="node-1063">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Kitchen
+This room has a familiar, but unpleasant smell. The linoleum floors have a slight shimmer to them as the dim light coming from the ceiling lamp hits it. There is an empty oven which sits next to where a fridge should be. Two cabinets decorate the walls, but one appears to have the handles ripped off of the doors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1064"></child>
+        </children>
+    </item>
+    <item nodeId="node-1064">
+        <command xml:space="preserve">open cabinet</command>
+        <result xml:space="preserve">You open the cabinet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1069"></child>
+        </children>
+    </item>
+    <item nodeId="node-1069">
+        <command xml:space="preserve">cut web</command>
+        <result xml:space="preserve">Cutting it up would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1070"></child>
+        </children>
+    </item>
+    <item nodeId="node-1070">
+        <command xml:space="preserve">cut web with chipped paint</command>
+        <result xml:space="preserve">I only understood you as far as wanting to cut web.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1071"></child>
+        </children>
+    </item>
+    <item nodeId="node-1071">
+        <command xml:space="preserve">take key</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1072"></child>
+        </children>
+    </item>
+    <item nodeId="node-1072">
+        <command xml:space="preserve">x web</command>
+        <result xml:space="preserve">The web must've been left alone for a long, long time in order to have grown to the massive size that it is, taking up the entire cabinet. It is a wonder how you didn't see it spilling out of the cabinet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1073"></child>
+        </children>
+    </item>
+    <item nodeId="node-1073">
+        <command xml:space="preserve">open web</command>
+        <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1074"></child>
+        </children>
+    </item>
+    <item nodeId="node-1074">
+        <command xml:space="preserve">unlock web with chipped paint</command>
+        <result xml:space="preserve">You unlock web.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1085"></child>
+        </children>
+    </item>
+    <item nodeId="node-1085">
+        <command xml:space="preserve">cut web</command>
+        <result xml:space="preserve">Cutting it up would achieve little.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1086"></child>
+        </children>
+    </item>
+    <item nodeId="node-1086">
+        <command xml:space="preserve">open web</command>
+        <result xml:space="preserve">You open web, revealing a key.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1087"></child>
+        </children>
+    </item>
+    <item nodeId="node-1087">
+        <command xml:space="preserve">take key</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1088"></child>
+        </children>
+    </item>
+    <item nodeId="node-1088">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Garage
+You are within a dimly lit room, cluttered with various shelves of junk. There is a run-down red muscle car sitting in the corner. The paint has started to chip and rust is beginning to pop up on its body.
+
+There is a doorway to the east, with a faint glow being emitted from it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1089"></child>
+        </children>
+    </item>
+    <item nodeId="node-1089">
+        <command xml:space="preserve">unlock car</command>
+        <result xml:space="preserve">What do you want to unlock the car with?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1090"></child>
+        </children>
+    </item>
+    <item nodeId="node-1090">
+        <command xml:space="preserve">unlock car with key</command>
+        <result xml:space="preserve">You unlock the car.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1091"></child>
+        </children>
+    </item>
+    <item nodeId="node-1091">
+        <command xml:space="preserve">enter car</command>
+        <result xml:space="preserve">You can't get into the closed car.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1092"></child>
+        </children>
+    </item>
+    <item nodeId="node-1092">
+        <command xml:space="preserve">open car</command>
+        <result xml:space="preserve">You open the car, revealing a bomb.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1093"></child>
+        </children>
+    </item>
+    <item nodeId="node-1093">
+        <command xml:space="preserve">enter car</command>
+        <result xml:space="preserve">You get into the car.
+
+In the car you can see a bomb.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1094"></child>
+        </children>
+    </item>
+    <item nodeId="node-1094">
+        <command xml:space="preserve">take bomb</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1018">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Kitchen
+This room has a familiar, but unpleasant smell. The linoleum floors have a slight shimmer to them as the dim light coming from the ceiling lamp hits it. There is an empty oven which sits next to where a fridge should be. Two cabinets decorate the walls, but one appears to have the handles ripped off of the doors.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1035"></child>
+            <child nodeId="node-1019"></child>
+        </children>
+    </item>
+    <item nodeId="node-1019">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Garage
+You find yourself within a dimly lit room, cluttered with various shelves of junk. There is a run-down red muscle car sitting in the corner. The paint has started to chip and rust is beginning to pop up on its body.
+
+There is a doorway to the east, with a faint glow being emitted from it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1035">
+        <command xml:space="preserve">open cabinet</command>
+        <result xml:space="preserve">You open the cabinet.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
